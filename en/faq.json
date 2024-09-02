@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the types of sessions and cost of each session?",
+    "answer": "We offer individual and couple’s therapy sessions starting INR 500. Each session is for 60 minutes and can be conducted in online modes (video call, phone call, chat). By default the session booking page allows you to book individual sessions. However, if you’d like to book a couple’s session, please use the Filter to view the therapists who offer couple’s therapy and you can convert your session at the booking page by switching on the Couple’s Therapy toggle. Please note : for couple’s therapy conversion, the session cost will be added with a 30% conversion charge."
+  },
+  {
+    "question": "How do I start the session?",
+    "answer": "If your session is booked via video mode, you can join your session via the Start Session button on the Therapy Page, under My Bookings.\n\nIf you have booked a session via Phone mode or Chat mode, your therapist will be connecting with you via whatsapp on your registered number."
+  },
+  {
+    "question": "Can I reschedule my session? If I cancel, will I get a refund?",
+    "answer": "Our sessions can be rescheduled or cancelled upto 24 hours prior to scheduled timing. If a session is booked within 24 hours of the starting of scheduled session, it cannot be rescheduled or cancelled.\n\nIf you are cancelling your session more than 24 hours prior to scheduled timing via the app, you will be eligible for the refund and our system will initiate it automatically. If your session is booked under 1 session plan, your amount will be refunded to your source account directly in 5-7 business days max. However, if the cancelled session was booked by credit or under multi session plan (3 or 5 session plan), the refund will be as a session credit added to your account."
+  },
+  {
+    "question": "I don’t like my therapist matching results, can I book with anyone else? How do I go about it?",
+    "answer": "Sure,we understand that finding the right therapist is about taking multiple chances on yourself. If you are not satisfied with the matching tool’s recommendations, our team can help you recommend a suitable therapist as well and guide you on the queries.\nPlease connect with our support team via whatsapp chat at +91-9810066307. You can share the following details with our team to help you better with the recommendation\n a) age\n b) gender you identify with\n c) concerns you’d like to take up in therapy\n d) preferences in gender of the therapist, availability days, or any specific specialisation"
+  },
+  {
+    "question": "My payment is deducted but the session is not booked/not reflecting on the app. What should I do?",
+    "answer": "Sometimes due to an issue at the bank/payment gateway, there can be a slight delay in confirmation of your payment and subsequently your booked session. If your money is debited and you are unable to view your session on the app or did not receive a booking confirmation either, we assure you, your money is safe. Please wait for 10 minutes and check the app and email inbox again for your session confirmation. If you are still unable to view it, please report it to our support team via whatsapp chat at +91-9810066307. They will check the issue promptly and help you with a suitable resolution."
+  }
+]

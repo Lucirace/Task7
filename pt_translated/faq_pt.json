@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Quais são os tipos de sessões e o custo de cada sessão?",
+        "answer": "Oferecemos sessões de terapia individual e de casal a partir de INR 500. Cada sessão é de 60 minutos e pode ser realizada nos modos online (videochamada, telefonema, chat). Por predefinição, a página de reserva de sessões permite-lhe reservar sessões individuais. No entanto, se quiser reservar uma sessão de casal, use o Filtro para ver os terapeutas que oferecem a terapia de casal e pode converter a sua sessão na página de reserva, ativando a opção Terapia de Casal. Observação : para conversão de terapia de casal, o custo da sessão será adicionado com uma taxa de conversão de 30%."
+    },
+    {
+        "question": "Como inicio a sessão?",
+        "answer": "Se a sua sessão for reservada através do modo de vídeo, pode participar na sua sessão através do botão Iniciar Sessão na Página de Terapia, em As Minhas Reservas.\n\nSe reservou uma sessão através do modo Telefone ou do modo Chat, o seu terapeuta entrará em contacto consigo através do whatsapp no seu número registado."
+    },
+    {
+        "question": "Posso reagendar a minha sessão? Se eu cancelar, receberei um reembolso?",
+        "answer": "Nossas sessões podem ser remarcadas ou canceladas até 24 horas antes do horário agendado. Se uma sessão for reservada dentro de 24 horas após o início da sessão agendada, ela não poderá ser remarcada ou cancelada.\n\nSe estiver a cancelar a sua sessão mais de 24 horas antes do horário agendado através da aplicação, será elegível para o reembolso e o nosso sistema irá iniciá-lo automaticamente. Se a sua sessão for reservada de acordo com o plano de 1 sessão, o seu montante será reembolsado diretamente para a sua conta de origem no prazo máximo de 5 a 7 dias úteis. No entanto, se a sessão cancelada foi reservada por crédito ou sob um plano de várias sessões (plano de 3 ou 5 sessões), o reembolso será como um crédito de sessão adicionado à sua conta."
+    },
+    {
+        "question": "Não gosto dos resultados correspondentes do meu terapeuta, posso reservar com mais alguém? Como faço isso?",
+        "answer": "Claro,entendemos que encontrar o terapeuta certo é se arriscar várias vezes. Se não estiver satisfeito com as recomendações da ferramenta de correspondência, a nossa equipa pode ajudá-lo a recomendar um terapeuta adequado e orientá-lo sobre as consultas.\nContacte a nossa equipa de apoio através do chat whatsapp em +91-9810066307. Pode partilhar os seguintes detalhes com a nossa equipa para o ajudar melhor com a recomendação\n a) idade\n b) género com o qual se identifica\n c) preocupações que gostaria de abordar na terapia\n d) preferências de gênero do terapeuta, dias de disponibilidade ou qualquer especialização específica"
+    },
+    {
+        "question": "O meu pagamento é deduzido, mas a sessão não está reservada/não aparece na aplicação. O que devo fazer?",
+        "answer": "Às vezes, devido a um problema no banco/gateway de pagamento, pode haver um pequeno atraso na confirmação do seu pagamento e, posteriormente, na sua sessão reservada. Se o seu dinheiro for debitado e não conseguir ver a sua sessão na aplicação ou também não tiver recebido uma confirmação de reserva, garantimos-lhe que o seu dinheiro está seguro. Aguarde 10 minutos e verifique novamente a aplicação e a caixa de entrada de e-mail para obter a confirmação da sua sessão. Se ainda não conseguir visualizá-lo, comunique-o à nossa equipa de apoio através do chat whatsapp em +91-9810066307. Eles verificarão o problema imediatamente e ajudarão você a encontrar uma solução adequada."
+    }
+]

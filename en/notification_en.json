@@ -1,0 +1,52 @@
+{
+  "REGISTRATION_REMINDER": {
+    "title": "Hey, we're on a mission!",
+    "body": "A mission to make India mentally stronger.",
+    "imageUrl": ""
+  },
+  "THERAPY_REMINDER": {
+    "title": "It's time for therapy! ⏱️",
+    "body": "Hey {user_name}, your session with {therapist_name} is about to start.",
+    "imageUrl": ""
+  },
+  "THERAPY_FEEDBACK": {
+    "title": "We're so proud of you! ✨",
+    "body": "Kudos on your recent session. Tell us how it went- your feedback matters. :)",
+    "imageUrl": ""
+  },
+  "THERAPY_HOMEWORK": {
+    "title": "You have some homework. 👀",
+    "body": "As promised, your therapist has left some notes for you. Take a look!",
+    "imageUrl": ""
+  },
+  "INCOMPLETE_SESSION_BOOKING_REMINDER": {
+    "title": "Your therapist is here for you 💛",
+    "body": "You had selected a great therapist for yourself.\nWe know it can feel scary, but here for your last step  ➡️",
+    "metaData": {
+      "deeplink": "{deeplink}"
+    }
+  },
+  "THERAPIST_MATCH_NOTIFICATION": {
+    "title": "It's a MATCH🔥",
+    "body": "with the best suited therapists for you!\nSee their profiles and make your move 😉",
+    "imageUrl": "",
+    "metaData": {
+      "deeplink": "/therapy/get-matched"
+    }
+  },
+  "SLOT_REMINDER_NOTIFICATION": {
+    "title": "Therapy calling 💛",
+    "body": "{name} has opened new slots. Book now!",
+    "imageUrl": ""
+  },
+  "SESSION_DAY_REMINDER": {
+    "title": "Reminder: It’s therapy day! 💛",
+    "body": "Check the app for time and mode.:)\nHappy healing.😊",
+    "imageUrl": ""
+  },
+  "REFERRAL_REWARD_NOTIFICATION": {
+    "title": "We’ve got news ⭐",
+    "body": "Your referral was successful. Tap here to get your code 👆",
+    "imageUrl": ""
+  }
+}

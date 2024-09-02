@@ -1,0 +1,50 @@
+{
+  "REGISTRATION_REMINDER": {
+    "title": "Ei, estamos numa missão!",
+    "body": "Uma missão para tornar a Índia mentalmente mais forte: ""
+  },
+  "THERAPY_REMINDER": {
+    "title": "Está na altura de fazer terapia! ⏱️",
+    "body": "Olá {user_name}, a sua sessão com {therapist_name} está prestes a começar"": ""
+  },
+  "THERAPY_FEEDBACK": {
+    "title": "Estamos tão orgulhosos de ti!  ✨",
+    "body": "Parabéns pela tua sessão recente. Diga-nos como correu - o seu feedback é importante. :)",
+    "imageUrl": ""
+  },
+  "THERAPY_HOMEWORK": {
+    "title": "Tens alguns trabalhos de casa.👀",
+    "body": "Como prometido, o seu terapeuta deixou algumas notas para si. Dá uma olhadela!",
+    "imageUrl": ""
+  },
+  "INCOMPLETE_SESSION_BOOKING_REMINDER": {
+    "title": "O seu terapeuta está aqui para si  💛",
+    "body": "Você tinha selecionado um ótimo terapeuta para si.\nSabemos que pode parecer assustador, mas aqui para o seu último passo  ➡️",
+    "metaData": {
+      "deeplink": "{deeplink}"
+    }
+  },
+  "THERAPIST_MATCH_NOTIFICATION": {
+    "title": "É um CORRESPONDENTE🔥",
+    "body": "com os terapeutas mais adequados para si!\nVeja os seus perfis e faça a sua jogada 😉",
+    "imageUrl": "",
+    "metaData": {
+      "deeplink": "/therapy/get-matched"
+    }
+  },
+  "SLOT_REMINDER_NOTIFICATION": {
+    "title": "Terapia chamando 💛",
+    "body": "{name} abriu novas vagas. Reserve agora!”,",
+    "imageUrl": ""
+  },
+  "SESSION_DAY_REMINDER": {
+    "title": "Lembrete: É dia de terapia! 💛",
+    "body": "Verifica na app a hora e o modo::)\nFeliz cura.😊",
+    "imageUrl": ""
+  },
+  "REFERRAL_REWARD_NOTIFICATION": {
+    "title": "Temos novidades ⭐",
+    "body": "A sua referência foi bem-sucedida. Toque aqui para obter o seu código  👆",
+    "imageUrl": ""
+  }
+}
